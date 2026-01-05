@@ -39,4 +39,3 @@ The original package is at https://github.com/LSYS/forestplot (examples).
 **Fonts and licensing**
 - The repo includes open-source fonts (DejaVu, Noto placeholders). If you want Microsoft fonts (Arial/Times New Roman), install them on your system or copy licensed TTFs into `fonts/`.
 
-If you'd like, I can add a small dropdown widget to the notebook to choose fonts interactively — say the word and I will add it.
