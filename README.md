@@ -39,3 +39,7 @@ The original package is at https://github.com/LSYS/forestplot (examples).
 **Fonts and licensing**
 - The repo includes open-source fonts (DejaVu, Noto placeholders). If you want Microsoft fonts (Arial/Times New Roman), install them on your system or copy licensed TTFs into `fonts/`.
 
+** Issues with the original forestplot package
+1. p-values astericks - default threshold was 0.1, 0.05, and 0.01; changed to 0.05, 0.01 and 0.001;
+2. annotation issues - duplicates in 'label' will result in the annotation table header to fail; avoid duplicates in 'label'
+
